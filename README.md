@@ -2,9 +2,9 @@
 
 ## Identitas
 
-- **Nama:** [Nama]
-- **NIM:** [NIM]
-- **Kelas:** [Kelas]
+- **Nama:** [Tuska Pratama]
+- **NIM:** [2511362]
+- **Kelas:** [Pilkom 3C]
 
 ## Deskripsi Singkat
 
