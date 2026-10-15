@@ -63,33 +63,27 @@ Berikut adalah tampilan setiap halaman website. Silakan tambahkan screenshot asl
 
 ### 1. Halaman Beranda (/)
 
-![Halaman Beranda](./screenshots/home.png)
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/66218479-9b09-44af-869e-b5d294973f2b" />
 
-Tampilan utama yang terdiri dari hero section, tentang kami, layanan, portofolio, dan call-to-action kontak.
 
 ### 2. Halaman Tentang Kami (/about)
 
-![Halaman Tentang Kami](./screenshots/about.png)
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/73f90b6a-c999-49f3-9515-30a57d05f551" />
 
-Halaman yang berisi profil dan visi misi perusahaan Nusa Digital.
 
 ### 3. Halaman Layanan (/services)
 
-![Halaman Layanan](./screenshots/services.png)
-
-Daftar layanan digital yang ditawarkan perusahaan.
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/1cbe9273-ff2e-4fe7-b3c7-7e65710d0831" />
+.
 
 ### 4. Halaman Portofolio (/portfolio)
 
-![Halaman Portofolio](./screenshots/portfolio.png)
-
-Koleksi proyek yang telah diselesaikan untuk klien.
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d94ee2d8-0246-4458-8be8-09035354de82" />
 
 ### 5. Halaman Kontak (/contact)
 
-![Halaman Kontak](./screenshots/contact.png)
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/89a27f1c-8e63-40d0-a5a7-2787c4a4e2ce" />
 
-Halaman kontak dengan informasi alamat, email, dan telepon perusahaan.
 
 ## Struktur Folder
 
